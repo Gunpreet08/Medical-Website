@@ -1,3 +1,15 @@
+> 🛠️ **My Contribution**
+>
+> This is a forked repository created as part of my contribution to **GirlScript Summer of Code - Extended 2024**.
+>
+> ✅ Changes I made:
+> - Added hover effect to navbar menu
+> - Improved homepage UI
+>
+> 📌 Contribution PR: [#660](https://github.com/tushargupta1504/Medical-Website/pull/660)
+> 🏁 Program: GSSoC - Extended 2024
+
+
 # <p align="center">**Medical🩺**<br>
 <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-HEALTHCARE%20PLATFORM" alt="Welcome to OUR HEALTHCARE PLATFORM" />
 </p>
